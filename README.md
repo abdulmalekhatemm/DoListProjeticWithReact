@@ -17,7 +17,7 @@
 ## 📸 نظرة على المشروع
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=DoListProjeticWithReact+Preview" alt="Project Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <img src="src/assets/final_todo_ui_verification_1774913514934.png" alt="Project Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
 </div>
 
 ---
