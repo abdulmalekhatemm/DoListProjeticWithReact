@@ -8,7 +8,7 @@
 
 تطبيق متطور لإدارة المهام اليومية، تم بناؤه مع التركيز على تجربة مستخدم سلسة وتصميم عصري متجاوب باستخدام تقنيات React الحديثة وMaterial-UI.
 
-[🌐 عرض حي للمشروع (Live Demo)](https://abdulmalekhatemm.github.io/DoListProjeticWithReact/)
+[🌐 عرض حي للمشروع (Live Demo)](https://69cb0f8c3f13c47454be52e6--dolistprojectabboud.netlify.app//)
 
 </div>
 
